@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The code and examples have been adapted from the work of [Jannick Leismann](https://it-leismann.de/) and [Denis Panjuta](https://linkedin.com/in/denis-panjuta/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The code and examples have been adapted from the work of [Jannick Leismann](https://it-leismann.de/) and [Denis Panjuta](https://linkedin.com/in/denis-panjuta/). The instructions for each example are listed in the README of the src folder.
 
 > [!IMPORTANT]  
 > Don't forget to install the node modules using *package.json*!
