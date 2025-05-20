@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).- You can edit the [index.js](src/index.js) file to check the result from each of the development steps:
+You can edit the [index.js](src/index.js) file to check the result from each of the development steps:
 
 - [Step 1](src/Step1.js) &nbsp;&nbsp;- Create a component yielding a button.
 - [Step 2](src/Step2.js) &nbsp;&nbsp;- Learn to use **fragments**.

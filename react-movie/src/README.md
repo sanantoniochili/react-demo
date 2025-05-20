@@ -1,5 +1,5 @@
 # Practical examples 
-You can use https://nextleap.app/online-compiler/reactjs-programming if you have a laptop
+You can use https://nextleap.app/online-compiler/reactjs-programming for quick online testing.
 
 ## Example 1
 
