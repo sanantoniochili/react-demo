@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).- You can edit the [index.js](src/index.js) file to check the result from each of the development steps:
 
 - [Step 1](src/Step1.js) &nbsp;&nbsp;- Create a component yielding a button.
-- [Step 2](src/Step2.js) &nbsp;&nbsp;- Learn to use **φragments**.
+- [Step 2](src/Step2.js) &nbsp;&nbsp;- Learn to use **fragments**.
 - [Step 3](src/Step3.js) &nbsp;&nbsp;- Re-introduce components for multiple buttons. 
 - [Step 4](src/Step4.js) &nbsp;&nbsp;- Give each button component a value as a **prop**.
 - [Step 5](src/Step5.js) &nbsp;&nbsp;- Define **event handlers**.
